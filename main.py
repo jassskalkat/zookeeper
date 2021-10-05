@@ -1,3 +1,6 @@
+# zookeeper is a user-friendly program for the zoo staff to use. 
+# The software monitors the status of the animals.
+
 # camel habitat
 camel = r"""
 Switching on the camera in the camel habitat...
